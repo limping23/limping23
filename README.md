@@ -24,7 +24,7 @@
 
 ### [![GitHub Streak](https://streak-stats.demolab.com?user=limping&theme=shades-of-purple&hide_border=true&border_radius=7&mode=weekly)](https://git.io/streak-stats)         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limping23)](https://github.com/anuraghazra/github-readme-stats)
 ### [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=limping&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
+#### P.S. I have just started keeping GitHub, wait for more projects!
 
 
 
