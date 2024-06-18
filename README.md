@@ -1,8 +1,8 @@
 # Hi there, I'm Matvey <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%c8a2c8&lines=limping23)](https://git.io/typing-svg)
 ## I'm Computer Science Student and Fullstack Developer from Russia🇷🇺 
-# My blog:
-               https://t.me/pythonwithmatvey
+## My blog:
+    https://t.me/pythonwithmatvey
 ### My skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
